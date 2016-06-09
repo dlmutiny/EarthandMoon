@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0B3FAF2D-E64B-4FDB-6EF1-03F64135D4E2}") = "EarthandMoon", "Assembly-CSharp.csproj", "{B15B3267-A119-16FF-2391-C12F3A37E252}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B15B3267-A119-16FF-2391-C12F3A37E252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15B3267-A119-16FF-2391-C12F3A37E252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15B3267-A119-16FF-2391-C12F3A37E252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15B3267-A119-16FF-2391-C12F3A37E252}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
